@@ -1,7 +1,7 @@
 import time
 import requests
 
-# URL = "https://sistema-de-rastreabilidade-via-etiquetas.onrender.com"
+# URL = "https://gerenciador-de-consumo-energia-agua.onrender.com"
 
 # while True:
 #     try:
