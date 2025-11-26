@@ -80,7 +80,7 @@ python app.py
 O sistema está disponível online pelo Render:
 Uso contramedidas até na versão free para a página não fechar por inatividade, caso feche, aguarde 50 segundos.
 
-➡️ **https://gerenciador-de-consumo-energia-agua.onrender.com**
+➡️ **https://water-energy-manager.onrender.com**
 
 ---
 

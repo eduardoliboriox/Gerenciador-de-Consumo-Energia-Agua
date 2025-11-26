@@ -1,7 +1,7 @@
 import time
 import requests
 
-URL = "https://gerenciador-de-consumo-energia-agua.onrender.com"
+URL = "https://water-energy-manager.onrender.com"
 
 while True:
     try:
@@ -9,4 +9,4 @@ while True:
         print("Ping OK:", r.status_code)
     except Exception as e:
         print("Erro:", e)
-    time.sleep(300)  # 5 minutos
+    time.sleep(600)  # 10 minutos
