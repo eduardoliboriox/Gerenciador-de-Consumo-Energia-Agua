@@ -45,7 +45,7 @@ Visualize a aplicação real através do link no final deste README.md.
 ## 📂 Estrutura do Projeto
 
 ```
- Gerenciador de Consumo – Energia, Água e Contas/
+water-energy-manager/
 ├─ static/
 │   ├─ logo.png    - sem logo
 │   └─ style.css   
@@ -61,6 +61,7 @@ Visualize a aplicação real através do link no final deste README.md.
 ├─ ping.py
 ├─ Profile  
 ├─ README.md
+├─ README.EN.md
 ├─ requirements.txt
 ```
 
